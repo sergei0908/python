@@ -38,7 +38,7 @@ class Solution:
 
 # **Вариант 77**
 
-# 896. Monotonic Array
+## 896. Monotonic Array
 
 ![условие задачи](896.png)
 
@@ -51,7 +51,7 @@ class Solution:
 ```
 
 
-# 1221. Split a String in Balanced Strings
+## 1221. Split a String in Balanced Strings
 
 ![условие задачи](1221.png)
 
@@ -73,7 +73,7 @@ class Solution:
 ```
 
 
-# 287. Find the Duplicate Number
+## 287. Find the Duplicate Number
 
 ![условие задачи](287.png)
 

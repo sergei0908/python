@@ -1,6 +1,6 @@
-Вариант 48 (неполный)
+# **Вариант 48 (неполный)**
 
-645. Несовпадение наборов
+## 645. Несовпадение наборов
 
 ![условие задачи](645.png)
 
@@ -13,7 +13,7 @@ class Solution:
 ```
 
 
-189. Rotate Array
+## 189. Rotate Array
 
 ![условие задачи](189.png)
 
@@ -36,9 +36,9 @@ class Solution:
 
 
 
-Вариант 77
+# **Вариант 77**
 
-896. Monotonic Array
+# 896. Monotonic Array
 
 ![условие задачи](896.png)
 
@@ -50,7 +50,8 @@ class Solution:
         return vozr or yb
 ```
 
-1221. Split a String in Balanced Strings
+
+# 1221. Split a String in Balanced Strings
 
 ![условие задачи](1221.png)
 
@@ -71,7 +72,8 @@ class Solution:
         return cnt
 ```
 
-287. Find the Duplicate Number
+
+# 287. Find the Duplicate Number
 
 ![условие задачи](287.png)
 
